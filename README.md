@@ -13,9 +13,9 @@
   <img alt="time spent" src="https://img.shields.io/badge/time%20spent-60%20hours-blue" />
   <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-672-orange" />
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/philosophers?color=lightblue" />
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/senthilpoo10/philosophers?color=blue" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/philosophers?color=green" />
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/coding-school-projects/philosophers?color=lightblue" />
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/coding-school-projects/philosophers?color=blue" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coding-school-projects/philosophers?color=green" />
 </p>
 
 ## 📚 About The Project
